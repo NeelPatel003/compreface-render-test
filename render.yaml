@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: compreface-core
+    env: docker
+    plan: free
+    autoDeploy: true
