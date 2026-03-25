@@ -3,4 +3,8 @@ builder = "DOCKERFILE"
 
 [deploy]
 restartPolicyType = "ON_FAILURE"
+<<<<<<< HEAD
 restartPolicyMaxRetries = 3
+=======
+restartPolicyMaxRetries = 3
+>>>>>>> 9cb89a1 (test 1)
